@@ -6,9 +6,10 @@ McGinty and Sunyaev – Supplementary Code -  README
 
 System Requirements:
 
-Anaconda installation of Python 3.8	64bit          	- https://www.anaconda.com/products/individual#Downloads
+Anaconda installation of Python 3.8 64bit    			      	- https://www.anaconda.com/products/individual#Downloads
+
 Additional Python libraries:
-	Biopython SeqIO                               		- https://biopython.org/wiki/SeqIO
+	Biopython SeqIO  	                             		- https://biopython.org/wiki/SeqIO
 	Plotly			                                    	- https://plotly.com/python/getting-started/
 	PyLiftover	  	                                	- https://pypi.org/project/pyliftover/
 	Regex			                                       	- https://pypi.org/project/regex/
