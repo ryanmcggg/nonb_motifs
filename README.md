@@ -49,7 +49,7 @@ Table of contents section 6, “Prepare gnomAD SNV database” accounts for a su
 
 Expected output:  
 	All plots (.png images) included in the manuscript.  
-	     (see: https://www.biorxiv.org/content/10.1101/2022.02.08.479604v1)  
+	     (see: https://www.biorxiv.org/content/10.1101/2022.02.08.479604v2)  
 	Various temporary or intermediate files and databases in compressed .csv or .pickle format.  
 
 Note: output figures for demo version will resemble the manuscript figures, though will be substantially lacking in power.
